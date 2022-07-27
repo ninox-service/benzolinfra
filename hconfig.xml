@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Hostsettings>
+  <Localhost>YES</Localhost>
+  <TCPPort>4916</TCPPort>
+  <UDPPort>4918</UDPPort>
+  <MonitoringIP> </MonitoringIP>
+  <MonitoringTCPPort> </MonitoringTCPPort>
+  <RemoteManager1> </RemoteManager1>
+  <RemoteManager1Enable> </RemoteManager1Enable>
+  <RemoteManager2> </RemoteManager2>
+  <RemoteManager2Enable> </RemoteManager2Enable>
+  <MonitoringURL> </MonitoringURL>
+</Hostsettings>
